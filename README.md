@@ -25,7 +25,7 @@ Welcome to the academic repository for **Software Design & Architecture (SEC-532
 Software-Design-and-Architecture/
 ├── Assignment/
 │   ├── README.md                              # Detailed documentation of Assignment 01 (Lab 02)
-│   └── Lab_02_Software_Design_Architecture.pdf # Original submitted PDF report
+│   └── Assignment_1.pdf                       # Original submitted PDF report
 └── README.md                                  # Repository overview and course tracker
 ```
 
@@ -35,7 +35,7 @@ Software-Design-and-Architecture/
 
 | # | Title / Topic | Domain / Subject | Submission Date | Documentation | Artifact |
 |---|---------------|------------------|-----------------|---------------|----------|
-| **01** | **Lab 02: From Real-World Concept to Software Object** | Company Management System | Oct 26, 2026 | [Assignment 1 README](./Assignment/README.md) | [PDF Report](./Assignment/Lab_02_Software_Design_Architecture.pdf) |
+| **01** | **Assignment 1: From Real-World Concept to Software Object** | Company Management System | Oct 26, 2026 | [Assignment 1 README](./Assignment/README.md) | [PDF Report](./Assignment/Assignment_1.pdf) |
 
 ---
 

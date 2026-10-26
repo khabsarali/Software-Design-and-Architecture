@@ -7,7 +7,7 @@
 > **Semester:** 3rd Semester (Session 2025–29)  
 > **University:** The University of Azad Jammu and Kashmir, Muzaffarabad  
 > **Submission Date:** October 26, 2026  
-> **Document:** [`Lab_02_Software_Design_Architecture.pdf`](./Lab_02_Software_Design_Architecture.pdf)
+> **Document:** [`Assignment_1.pdf`](./Assignment_1.pdf)
 
 ---
 
